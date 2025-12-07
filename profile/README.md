@@ -9,7 +9,7 @@
   *Transforming businesses through innovative technology since 2010*
   
   [![Website](https://img.shields.io/badge/Website-vinksllp.github.io-0284c7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vinksllp.github.io)
-  [![Email](https://img.shields.io/badge/Email-info%40vinksservices.com-0284c7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@vinksservices.com)
+  [![Email](https://img.shields.io/badge/Email-info%tobedecided.com-0284c7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@tobedecided.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0284c7?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
   
 </div>
