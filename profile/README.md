@@ -2,8 +2,8 @@
 
 <div align="center">
   
-  <img src="https://via.placeholder.com/150x150/0284c7/ffffff?text=VINKS" alt="VINKS Services LLP" width="150" height="150"/>
-  
+<!-- <img src="https://via.placeholder.com/150x150/0284c7/ffffff?text=VINKS" alt="VINKS Services LLP" width="150" height="150"/> -->
+
   ### Software Solutions Consulting
   
   *Transforming businesses through innovative technology since 2010*
